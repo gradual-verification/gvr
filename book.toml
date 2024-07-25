@@ -1,0 +1,6 @@
+[book]
+authors = ["Ian McCormack"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Gradual Verification for Rust"
